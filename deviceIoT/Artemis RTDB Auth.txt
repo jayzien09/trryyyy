@@ -1,0 +1,18 @@
+
+Link: https://artemisiot-b401b-default-rtdb.asia-southeast1.firebasedatabase.app/
+Project name: artemisIoT
+Project ID: artemisiot-b401b
+Project number: 567904566721
+
+Web API Key: 
+AIzaSyAf2_XQu9AfUbeF7JnmNQL_kaeURsXZycY
+
+admin UID: MjkrA2b1HWYbI7u7xnVXVnAdz562
+
+Firebase service account: 
+firebase-adminsdk-punu4@artemisiot-b401b.iam.gserviceaccount.com
+
+Database secrets:
+
+Database: artemisiot-b401b-default-rtdb
+secrets: 4Hxp4XZM0fduv4HPmAavpUKWviRZqRx36pwVDkzR

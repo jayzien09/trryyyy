@@ -1,0 +1,7 @@
+
+= Artemis RTDB: =
+
+Web API Key: AIzaSyCTBE1WUJAizHLvnd3Wl_LdA8hbh4OiFQ0
+User Email: “artemis.esg2022@gmail.com”
+User Pass: “@rtemisESG2022”
+Database URL: “https://artemis-f2a4c-default-rtdb.asia-southeast1.firebasedatabase.app/”
